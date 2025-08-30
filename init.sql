@@ -2,7 +2,7 @@
 
 -- Create database if not exists
 CREATE DATABASE IF NOT EXISTS powar_db;
-USE powar_db;
+USE powar_db; 
 
 -- Create master tables
 CREATE TABLE IF NOT EXISTS `master_state` (
